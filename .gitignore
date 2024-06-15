@@ -92,6 +92,7 @@ build/oacr_exclude.ini
 *.rsp
 *.js
 /src/OnlineStore/Ecommerce.Sdk.Controls/Common/Scripts.js
+/ASPNETMVC/packages
 
 # Build and development artifiacts
 /VersionGeneration
